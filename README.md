@@ -20,7 +20,7 @@
 # 📖 Hello-React-Front-End <a name="about-project"></a>
 
 **Hello-React-Front-End** is a project which using React for Front-End of an application and display data coming from API.
-### Back End Link(https://github.com/becky449/hello-rails-back-end)
+### Back End Link(https://github.com/otmanTR/hello-rails-back-end)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -57,7 +57,7 @@ Clone this Repository to your desired folder:
 
 ``` sh
 cd my-folder
-git clone https://github.com/becky449/hello-react-front-end.git
+git clone https://github.com/otmanTR/hello-react-front-end.git
 ```
 ### Install 
 Install this project with:
@@ -73,10 +73,11 @@ npm run start
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="author"></a>
-👤 **Rabecca Nabwire**
+👤 **Recep Burak Otman**
 
-- GitHub: [@becky449](https://github.com/becky449)
-- LinkedIn: [Rabecca Nabwire](https://www.linkedin.com/in/rabecca_nabwire/)
+- GitHub: [@otmanTR](https://github.com/otmanTR)
+- Twitter: [@hotumanzade](https://twitter.com/hotumanzade)
+- LinkedIn: [Burak Otman](https://www.linkedin.com/in/burak-otman-88646443/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
